@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Fatec Mobile</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="btentrar">Entrar</string>
+    <string name="btlistarTodos">Listar Todos</string>
+    <string name="btlistarParam">Listar Parametros</string>
+    <string name="btpesquisar">Pesquisar</string>
+    <string name="btinserir">Inserir</string>
+    <string name="btalterar">Alterar</string>
+    <string name="btexcluir">Excluir</string>
+    <string name="btnovousu">Novo Usuario</string>
+    <string name="btsalvar">Salvar</string>
+    <string name="lblogin">Login</string>
+    <string name="lbsenha">Senha</string>
+    <string name="lbtipo">Tipo</string>
+    <string name="lbstatus">Status</string>
+    <string name="lbid">Id</string>
+    <string name="lbusuariologado">UsuarioLogado</string>
+    <string name="title_activity_add_usu">AddUsuActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_list_usu">ListUsuActivity</string>
+    <string name="title_activity_upt_usu">UptUsuActivity</string>
+    <string name="title_activity_list_usu_param">ListUsuParamActivity</string>
+</resources>
